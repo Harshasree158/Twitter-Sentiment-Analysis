@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Model files
+*.pkl
+
+# Dataset (optional if you don’t want to upload)
+Tweets.csv
+
+# Virtual environments (if used)
+env/
+venv/
+
+# VS Code workspace files (optional)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
